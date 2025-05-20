@@ -12,8 +12,8 @@ This is a text-based game where players eliminate enemies and answer quiz questi
 **My Role:**  
 - Contributed to game mechanics
 - Helped implement the quiz-based challenge system
-- Added all the descriptions to make the atmpshere of the game fascinating
-- Helped with the debuging of the code
+- Added all the descriptions to make the atmosphere of the game fascinating
+- Helped debuging the code
   
 **Technologies:**  
 C#,VScode
