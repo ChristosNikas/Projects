@@ -22,3 +22,19 @@ C#,VScode
 https://github.com/RobertGordonUniversity/cm1113-2024-25-coursework-c-hashtag.git
 
 ---
+## Project 2: Workout plan Website
+
+**Description**
+This is a simple, static website that provides users with a structured weekly workout plan as well as video tutorials to help people understand each exercise. The site includes organized sections for different days, types of workouts (e.g., cardio, strength, flexibility), and exercise instructions. It was designed to be clean and easy to navigate using only HTML.
+
+**My role**
+-Created and structured all pages using semantic HTML
+-Organized content into clear sections for each workout category and day
+
+**Technologies**
+HTML,Vscode
+
+**Link to full repo**
+https://github.com/ChristosNikas/Projects.git
+
+--
